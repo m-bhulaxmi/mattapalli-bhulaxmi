@@ -16,7 +16,7 @@ for technical interivews, especially for solving real-time and problem solving q
 
 ##Sample Problems
 - Find duplicate elements in a list using streams
-- Group 
+- Group By Length and vowels
 - Sort employees using Comparator
 - Find min/max using streams
 
